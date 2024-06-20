@@ -1,0 +1,76 @@
+
+h1{
+    color:rgb(110, 22, 193);
+    font-size:50px;
+    font-weight:bold;
+    text-align:center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+
+}
+
+h5{
+    font-size:25px;
+    font-weight:bold;
+    text-align:center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+body{ 
+    color:rgb(0, 0, 0);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding:10px;
+    margin:20px;
+}
+
+
+h1,h2,h3,h4{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:rgb(110, 22, 193);
+  
+    padding:10px;
+    margin: 20px;
+    border-radius:30px;
+
+}
+
+#topid{
+    color:rgb(0, 0, 0);
+}
+
+
+
+
+.container{
+    position: relative;
+    padding:20px;
+    background-color:rgb(104, 172, 168);
+    box-sizing:border-box;
+    margin:0;
+}
+
+.header{
+    border: 2px solid black;
+
+}
+
+.leftmenu{
+    border: 2px solid black;
+float:left;
+width:25%;
+}
+.mainbody{
+    border: 2px solid black;
+    float:left;
+    width:49%;
+}
+.rightmenu{
+    border: 2px solid black;
+    float:right;
+    width:25%;
+
+}
+.footer{
+    border: 2px solid black;
+    margin-top:95%;
+    margin-bottom:0px;
+}
